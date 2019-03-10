@@ -3,7 +3,7 @@ React Skills Test
 
 This is only to prove your skills, try harder, be smarter and think _out-of-the-box_ 🤓, the test is intend to measure your skills so besides the code, you have to follow some standards described below.
 
-> The reason why i'm writing this test in english is because you have to be familiar with it, the best documentation is written in English. (Also to practice 🙄).
+> The reason why i'm writing this test in english is because you have to be familiar with it, the best documentation is written in English. (Also i'm doin' it to practice 🙄).
 
 ----
 
@@ -82,3 +82,10 @@ Like it's obvious we're using [React](https://reactjs.org/) as our main goal, i'
 3. BE FUCKING CREATIVE IN EVEY POSSIBLE SITUATION.
 4. Despite you have some limitations 🙃, you have the ability to refute the points in this test and prove yours (just don't forget what's about this application).
 5. The time to develop this web application is maximum **2 weeks**. Less time is equal to better performance :)
+
+
+# Good luck and have fun!
+
+----
+
+With ❤️ by Jorge Garduño
