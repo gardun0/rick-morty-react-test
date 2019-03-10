@@ -1,11 +1,15 @@
-# React Skills Test 
+React Skills Test 
 ------
 
 This is only to prove your skills, try harder, be smarter and think _out-of-the-box_ 🤓, the test is intend to measure your skills so besides the code, you have to follow some standards described below.
 
 > The reason why i'm writing this test in english is because you have to be familiar with it, the best documentation is written in English. (Also to practice 🙄).
 
-------
+----
+
+[[toc]]
+
+----
 
 ## Introduction
 
@@ -20,6 +24,7 @@ This application must accomplish some features:
 - Episode information.
 - Search results must have pagination.
 - The application must be mobile-friendly.
+- **put some creativity from you...**
 
 
 ## Technology
@@ -54,3 +59,26 @@ Like it's obvious we're using [React](https://reactjs.org/) as our main goal, i'
 - [Styled Components](https://www.styled-components.com/): Library Helper for react which let you build modular and styled components, it's flexible and the API is simple.
 - [Grommet](https://v2.grommet.io/): Another series of components for React which use their own design guidelines, it has a lot of useful and gorgeous components, it also supports theming.
 - [Reflexbox](http://jxnblk.com/reflexbox/): Flexbox grid system to position and space components in React, it has a simple and clean API.
+
+----
+
+**Note: Like i said, you could use whatever you want, but remember to stick with the idea of the project.**
+
+
+## Tips & Tricks
+
+- React has a file standard according to the use of JSX, the files which contains JSX syntax MUST end with _.jsx_, otherwise with _.js_.
+- I'm truly believer of [K.I.S.S](https://es.wikipedia.org/wiki/Principio_KISS) pattern, check it out!
+- React is based on functional principles, the functional saying is about to split your code into small pieces of functions so later you can compose them. Do the same with React, create components as you wish, but don't forget to fit in the definition of reusability. [(Here is an article about it)](https://hackernoon.com/the-three-types-of-reusable-react-components-37a6bf7c2d69)
+- Do as many files you want for your project, **try to split** into pieces and name them (files, variables) with a name for it's purpose.
+- Name the things accordingly to their use, e.g. A component which centers a Box might be named as _CenteredBox_ **DO NOT** use names like ~~x, y, z~~.
+- Do not forget to remember that your code might be used for others, so don't be selfish and write readable code 😐 (this tip is an extension from the previous tip).
+- **Before** you start, i recommend you to check the documentation of the libraries/frameworks/technology you will use.
+
+## Points to consider in this test
+
+1. Document your code. Besides you will try to write readable code (i hope so 🙌🏻).
+2. You MUST use an UI Library described in the [Technology](#technology) section, but you still have to design your app structure, so be intelligent about it.
+3. BE FUCKING CREATIVE IN EVEY POSSIBLE SITUATION.
+4. Despite you have some limitations 🙃, you have the ability to refute the points in this test and prove yours (just don't forget what's about this application).
+5. The time to develop this web application is maximum **2 weeks**. Less time is equal to better performance :)
