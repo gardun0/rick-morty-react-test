@@ -1,5 +1,5 @@
-React Skills Test 
-------
+# React Skills Test
+----
 
 This is only to prove your skills, try harder, be smarter and think _out-of-the-box_ 🤓, the test is intend to measure your skills so besides the code, you have to follow some standards described below.
 
@@ -7,7 +7,7 @@ This is only to prove your skills, try harder, be smarter and think _out-of-the-
 
 ----
 
-[[toc]]
+![](https://media.giphy.com/media/WVudyGEaizNeg/giphy.gif)
 
 ----
 
@@ -48,6 +48,7 @@ Like it's obvious we're using [React](https://reactjs.org/) as our main goal, i'
 - [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension): As you have use Redux, it may be helpful to have a debugger and a state viewer for Redux.
 - [Redux Sagas](https://github.com/redux-saga/redux-saga): Library extension for Redux which let you handle the side effects from your application with [generators](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/function*), you can compose, combine and above with the helpers it contains. (It works with duck pattern to).
 - [Redux Cycles](https://github.com/cyclejs-community/redux-cycles): Library extension for Redux which let you handle side effects in a pure functional way, minimizing errors and make your app even more composable. (It works with duck pattern to).
+- [Connected React Router](https://github.com/supasate/connected-react-router): library which let you connect your router with redux, just think a little bit about it, sounds awesome!
 
 > **Recommendation:** use on of the side effects redux handler from above.
 
@@ -78,14 +79,15 @@ Like it's obvious we're using [React](https://reactjs.org/) as our main goal, i'
 ## Points to consider in this test
 
 1. Document your code. Besides you will try to write readable code (i hope so 🙌🏻).
-2. You MUST use an UI Library described in the [Technology](#technology) section, but you still have to design your app structure, so be intelligent about it.
-3. BE FUCKING CREATIVE IN EVEY POSSIBLE SITUATION.
+2. You MUST use an UI Library described in [Technology](#technology) section, but you still have to design your app structure, so be intelligent about it.
+3. BE FUCKING CREATIVE IN EVERY POSSIBLE SITUATION.
 4. Despite you have some limitations 🙃, you have the ability to refute the points in this test and prove yours (just don't forget what's about this application).
 5. The time to develop this web application is maximum **2 weeks**. Less time is equal to better performance :)
 
+[HERE YOU HAVE A GOOD REACT RESOURCE LIST](https://github.com/enaqx/awesome-react) 😇
 
 # Good luck and have fun!
 
 ----
 
-With ❤️ by Jorge Garduño
+With ❤️ by Jorge Garduño.
